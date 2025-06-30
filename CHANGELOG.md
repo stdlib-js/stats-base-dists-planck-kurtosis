@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-21)
+## Unreleased (2025-06-30)
 
 <section class="features">
 
@@ -16,6 +16,18 @@
 </section>
 
 <!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#4899](https://github.com/stdlib-js/stdlib/issues/4899)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
