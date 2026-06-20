@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-20)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`50a34cf`](https://github.com/stdlib-js/stdlib/commit/50a34cffd477b655ab96d0aefd61744ef964a58f) - **style:** remove extra trailing newlines [(#12968)](https://github.com/stdlib-js/stdlib/pull/12968) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
