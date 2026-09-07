@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`af1cb75`](https://github.com/stdlib-js/stdlib/commit/af1cb75391f575c94130af271d907846143566e7) - **test:** migrate `stats/base/dists/planck/kurtosis` to ULP-based assertions [(#15054)](https://github.com/stdlib-js/stdlib/pull/15054) _(by Philipp Burckhardt)_
 -   [`50a34cf`](https://github.com/stdlib-js/stdlib/commit/50a34cffd477b655ab96d0aefd61744ef964a58f) - **style:** remove extra trailing newlines [(#12968)](https://github.com/stdlib-js/stdlib/pull/12968) _(by Philipp Burckhardt)_
 
 </details>
