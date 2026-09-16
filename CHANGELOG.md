@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-07)
+## Unreleased (2026-09-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d3eaad3`](https://github.com/stdlib-js/stdlib/commit/d3eaad35f633c731ce8112190d74bb2a7577e1e8) - **chore:** clean-up [(#15039)](https://github.com/stdlib-js/stdlib/pull/15039) _(by Philipp Burckhardt, Athan Reines)_
 -   [`af1cb75`](https://github.com/stdlib-js/stdlib/commit/af1cb75391f575c94130af271d907846143566e7) - **test:** migrate `stats/base/dists/planck/kurtosis` to ULP-based assertions [(#15054)](https://github.com/stdlib-js/stdlib/pull/15054) _(by Philipp Burckhardt)_
 -   [`50a34cf`](https://github.com/stdlib-js/stdlib/commit/50a34cffd477b655ab96d0aefd61744ef964a58f) - **style:** remove extra trailing newlines [(#12968)](https://github.com/stdlib-js/stdlib/pull/12968) _(by Philipp Burckhardt)_
 
@@ -25,8 +26,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
